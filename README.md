@@ -3,7 +3,7 @@ Covid-19 spike protein multiple sequence alignment python notebook.
 
 
 
-Output:
+Output snapshot:
 
 ![cov19_tp10](cov19_tp10.png)
 
